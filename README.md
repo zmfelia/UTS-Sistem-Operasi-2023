@@ -8,9 +8,7 @@ c. Round Robin jika diketahui Quantum = 2
 4.	Output apa yang akan ditampilkan pada LINE A? Jelaskan! 
 
 #include <sys/types.h>
-
 #include <stdio.h>
-
 #include <unistd.h>
 
 int value = 5;
